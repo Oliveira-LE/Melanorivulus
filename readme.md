@@ -1,4 +1,4 @@
-# Projeto Killifish <i>Melanorivulus<i> (Rivulidae) do Brasil
+# Projeto Killifish <i>Melanorivulus<i> (Rivulidae) do Brasil - Imersão Dev com Google Gemini
 
 ## Descrição
 Este projeto tem como objetivo criar uma página informativa e atualizada sobre todos os peixes do gênero <i>Melanorivulus<i>, apresentando seus descritores, o ano de sua descrição, informações adicionais e seu status de conservação na organização IUCN.
